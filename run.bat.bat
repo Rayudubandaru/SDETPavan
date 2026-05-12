@@ -1,0 +1,1 @@
+@echo offecho Starting...cd /d "D:\E drive\Selenium New\SeleniumPratice"dirmvn -versionmvn clean installmvn testpause
